@@ -91,9 +91,6 @@ The focus is on learning ethical hacking techniques and understanding network pr
 https://github.com/user-attachments/assets/b44f2333-990e-41b6-aa08-310433cf1325
 
 
-3. **Documentation:**
-   - Detailed explanations of protocols observed and their relevance in network analysis.
-
 ---
 
 ## **Ethical Considerations**
